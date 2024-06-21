@@ -1,13 +1,22 @@
 # 👋 Hello, I'm Arpan Bagchi!
 
 **Computer Science and Communication Engineering Student | Passionate about Cloud Computing and Machine Learning**
-
-![Welcome GIF](https://tenor.com/view/important-announcement-pixel-gif-11625794)
-
+<table>
+  <tr>
+    <td>
 📍 Bhubaneswar, Odisha, India (Current)  
-📍 Ghaziabad, Uttar Pradesh, India (Permanent)  
-📧 arpanbagchi16@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/arpan-bagchi-162487257) | [GitHub](https://github.com/MrBagchi)
+<br>📍 Ghaziabad, Uttar Pradesh, India (Permanent)  
+<br>📧 arpanbagchi16@gmail.com  
+<br>🔗 [LinkedIn](https://linkedin.com/in/arpan-bagchi-162487257) | [GitHub](https://github.com/MrBagchi)
+  </td>
+    <td>
+      <p align="center">
+    <img align="right" width="100%" height="100%"       src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgybGJrbmxxMTc5ZGhtc2JvZmQzMmE4dXdqbDN2cGg0bWJlZzY5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"
+    >
+    </p>
+      </td>
+  </tr>
+</table>
 
 ---
 
