@@ -2,7 +2,7 @@
 
 **Computer Science and Communication Engineering Student | Passionate about Cloud Computing and Machine Learning**
 
-![Welcome GIF](https://media.tenor.com/Qf1mtWnL_fwAAAAM/important-announcement-pixel.gif)
+![Welcome GIF](https://tenor.com/view/important-announcement-pixel-gif-11625794)
 
 📍 Bhubaneswar, Odisha, India (Current)  
 📍 Ghaziabad, Uttar Pradesh, India (Permanent)  
@@ -15,14 +15,14 @@
 - **Languages:** C++, C, Python, Java, HTML, CSS, JavaScript, PHP, SQL
 - **Frameworks and Tools:** Docker, OpenStack, Kubernetes, OpenShift, Bootstrap
 - **Cloud Technologies:** Linux, Red Hat, DevOps
-- **Other Skills:** Data Structures, OOP, Computer Networks, AI, Machine Learning, Version Control (Git), TDD
+- **Other Skills:** Data Structures, OOP, Computer Architecture, Software Engineering, OS, Software Development Lifecycle, Version Control Systems (Git), Test-Driven Development (TDD), Computer Networks, Artificial Intelligence, Machine Learning
 
 ## 🌟 Soft Skills
 - Effective Communicator
 - Creative & Adaptive
 - Leadership & Teamwork
 - Self-Motivated
-- Problem-Solving & Analytical Skills
+- Good Problem-Solving & Analytical Skills
 
 ---
 
