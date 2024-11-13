@@ -23,7 +23,7 @@
 ## 🛠️ Technical Skills
 - **Languages:** C++, C, Python, Java, HTML, CSS, JavaScript, PHP, SQL
 - **Frameworks and Tools:** Docker, OpenStack, Kubernetes, OpenShift, Bootstrap
-- **Cloud Technologies:** Linux, Red Hat, DevOps
+- **Cloud Technologies:** Linux,DevOps
 - **Other Skills:** Data Structures, OOP, Computer Architecture, Software Engineering, OS, Software Development Lifecycle, Version Control Systems (Git), Test-Driven Development (TDD), Computer Networks, Artificial Intelligence, Machine Learning
 
 ## 🌟 Soft Skills
